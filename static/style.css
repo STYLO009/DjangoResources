@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;   /* vertical center */
+    align-items: center;       /* horizontal center */
+
+    background-color: white;
+    color: black;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+button {
+    height: 60px;
+    width: 200px;
+    font-size: 18px;
+}
