@@ -1,0 +1,2 @@
+# DjangoResources
+Django skilled
