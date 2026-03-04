@@ -1,0 +1,14 @@
+{
+  "name": "jio",
+  "version": "1.0.0",
+  "main": "index.js",
+"scripts": {
+  "dev": "tailwindcss -i ./static/src/input.css -o ./static/css/output.css --watch"
+},
+"dependencies": {
+    "@tailwindcss/vite": "^4.2.1",
+    "tailwindcss": "^4.2.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
